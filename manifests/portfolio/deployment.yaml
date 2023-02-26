@@ -20,3 +20,4 @@ spec:
         name: portfolio
         ports:
         - containerPort: 8080
+        imagePullPolicy: Always
