@@ -1,0 +1,1 @@
+Repository with manifests for my local k8s cluster running inside VM on an intel nuc
