@@ -16,7 +16,7 @@ spec:
         app: portfolio
     spec:
       containers:
-      - image: localhost:32000/portfolio:0.1.0
+      - image: localhost:32000/portfolio:0.2.0
         name: portfolio
         ports:
         - containerPort: 8080
